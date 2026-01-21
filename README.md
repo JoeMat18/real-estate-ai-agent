@@ -25,7 +25,7 @@ It uses **LangGraph** to orchestrate a workflow of specialized agents (Router, E
 1. **Clone the repository:**
    ```bash
    git clone <repo-url>
-   cd yossi_mat
+   cd real-estate-ai-agent
    ```
 
 2. **Create a virtual environment:**
